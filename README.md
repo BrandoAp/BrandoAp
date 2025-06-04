@@ -2,7 +2,7 @@
 
 ## 👋¡Hola! Soy Brando Avila
 
-Soy estudiante de Desarrollo y Gestión de Software y me encanta crear cosas con código.  
+Soy estudiante de Desarrollo y Gestión de Software y me encanta desarrollar aplicaciones con código.  
 Principalmente me enfoco en **Frontend**, pero también estoy metiéndome al **Backend** con Java, Spring Boot y un poco de Node.js + Express.
 
 
