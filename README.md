@@ -1,5 +1,3 @@
-![Brando Avila Banner](./Banner.png)
-
 ## 👋¡Hola! Soy Brando Avila
 
 Soy estudiante de Desarrollo y Gestión de Software y me encanta desarrollar aplicaciones con código.  
