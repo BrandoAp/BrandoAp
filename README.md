@@ -7,7 +7,7 @@ Principalmente me enfoco en **Frontend**, pero también estoy metiéndome al **B
 
 ### ⚙️ Tecnologías que uso
 - **Frontend:** HTML, CSS, JavaScript, Astro, TailwindCSS
-- **Backend:** Python, Django
+- **Backend:** Python, Django + DRF
 - **Herramientas:** Git, GitHub, Figma
 
 Gracias por pasar por aquí 🙌  
