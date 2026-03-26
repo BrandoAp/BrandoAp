@@ -21,7 +21,7 @@ Desarrollo APIs y aplicaciones backend aplicando buenas prácticas como arquitec
 - Git & GitHub  
 - Manejo de variables de entorno  
 - Conexión a bases de datos remotas  
-- Arquitectura MVC  
+- Arquitectura MVC y DDD
 - Integración de APIs externas  
 
 ---
