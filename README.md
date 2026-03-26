@@ -1,64 +1,36 @@
 ## 👋 ¡Hola! Soy Brando Ávila
 
-💻 Estudiante de **Desarrollo y Gestión de Software**  
-🚀 Apasionado por crear aplicaciones escalables y bien estructuradas  
-🎯 Enfocado en convertirme en **Desarrollador Backend profesional**
+💻 Estudiante de Desarrollo y Gestión de Software  
+🚀 Enfocado en **Backend Development con Python**
+
+Desarrollo APIs y aplicaciones backend aplicando buenas prácticas como arquitectura por capas, manejo de entornos, conexión a bases de datos y consumo de servicios externos.
 
 ---
 
-## 🧠 Sobre mí
+## ⚙️ Stack Backend
 
-Soy desarrollador con experiencia en proyectos académicos y personales, enfocado principalmente en el **backend con Python**.  
-Me interesa construir APIs limpias, seguras y escalables, aplicando buenas prácticas como arquitectura por capas, separación de responsabilidades y uso de patrones como MVC.
-
-Actualmente también estoy fortaleciendo mis habilidades en el frontend para convertirme en un desarrollador más completo.
+- **Lenguaje:** Python  
+- **Frameworks:** Django, Django Rest Framework, Django Ninja  
+- **Bases de datos:** PostgreSQL, MySQL  
+- **BaaS:** Supabase  
 
 ---
 
-## ⚙️ Tecnologías y herramientas
+## 🛠️ Herramientas y prácticas
 
-### 🖥️ Backend
-- Python  
-- Django  
-- Django Rest Framework (DRF)  
-- Django Ninja  
-- Node.js + Express  
-
-### 🌐 Frontend
-- JavaScript / TypeScript  
-- React  
-- Astro  
-- TailwindCSS  
-
-### 🗄️ Bases de datos
-- PostgreSQL  
-- MySQL  
-
-### ☁️ Backend as a Service
-- Supabase  
-
-### 🛠️ Herramientas y buenas prácticas
-- Git & GitHub (control de versiones)
+- Git & GitHub  
 - Manejo de variables de entorno  
-- Consumo de APIs  
 - Conexión a bases de datos remotas  
-- Arquitectura MVC  
-- Desarrollo de APIs REST  
+- Arquitectura MVC y DDD
+- Integración de APIs externas  
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- Mejores prácticas en diseño de APIs  
 - Arquitectura backend escalable  
-- Optimización de consultas y rendimiento  
-- Docker para despliegue de aplicaciones  
-
----
-
-## 🚀 Objetivo profesional
-
-Mi meta es trabajar como **Backend Developer**, participando en proyectos reales donde pueda aportar valor, seguir creciendo técnicamente y enfrentar desafíos que me permitan mejorar cada día.
+- Optimización y rendimiento en APIs  
+- Docker para despliegue  
 
 ---
 
@@ -76,11 +48,4 @@ Mi meta es trabajar como **Backend Developer**, participando en proyectos reales
 
 ---
 
-## 🙌 Gracias por visitar mi perfil
-
-Siempre estoy abierto a:
-- Aprender nuevas tecnologías  
-- Colaborar en proyectos  
-- Oportunidades como desarrollador backend  
-
-✨ *"El código es más que escribir líneas, es resolver problemas de forma inteligente."*
+🙌 En constante aprendizaje para convertirme en Backend Developer profesional.
